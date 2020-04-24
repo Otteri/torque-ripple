@@ -1,0 +1,6 @@
+[submodule "data-analysis"]
+	path = data-analysis
+	url = https://github.com/Otteri/torque-ripple-data.git
+[submodule "reinforcement-learning"]
+	path = reinforcement-learning
+	url = https://github.com/Otteri/torque-ripple-rl.git
