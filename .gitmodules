@@ -4,3 +4,9 @@
 [submodule "reinforcement-learning"]
 	path = reinforcement-learning
 	url = https://github.com/Otteri/torque-ripple-rl.git
+[submodule "compensation"]
+	path = compensation
+	url = https://github.com/Otteri/torque-ripple-compensation.git
+[submodule "latex"]
+	path = latex
+	url = https://github.com/Otteri/torque-ripple-latex.git
