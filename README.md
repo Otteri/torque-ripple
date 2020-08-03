@@ -9,7 +9,7 @@ The project has been split into several submodules.
 In order to obtain all project related files, run:  
 `git submodule update --recursive --init`
 
-# Project structure
+## Project structure
 This repository consists of several submodules:
 ```
 torque-ripple
